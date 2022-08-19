@@ -1,0 +1,31 @@
+{
+  "name": "solarenergyprediction-evcharging",
+  "version": "1.0.0",
+  "description": "Electric Vehicle Charging - Scheduling Algorithm ",
+  "main": "scheduler.js",
+  "scripts": {
+    "test": "node cli-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energychain/SolarEnergyPrediction-EVCharging.git"
+  },
+  "keywords": [
+    "evcharging",
+    "solar",
+    "pv",
+    "prediction",
+    "forecast",
+    "api"
+  ],
+  "author": "STROMDAO GmbH <dev@stromdao.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/energychain/SolarEnergyPrediction-EVCharging/issues"
+  },
+  "homepage": "https://github.com/energychain/SolarEnergyPrediction-EVCharging#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  }
+}
