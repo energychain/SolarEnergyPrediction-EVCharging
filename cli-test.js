@@ -29,7 +29,7 @@ const app = async function() {
       console.log("STUB:setCPower",l);
     });
 
-    for(let i=50;i<100;i++) {
+    for(let i=40;i<100;i++) {
       try  {
         let state = {
           soc:scheduler.status.soc,
