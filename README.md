@@ -51,7 +51,7 @@ kontakt@stromdao.com  <br/>
 Handelsregister: HRB 728691 (Amtsgericht Mannheim)
 </addr>
 
-Project Website: hhttps://rapidapi.com/stromdao-stromdao-default/api/solarenergyprediction/
+Project Website: https://rapidapi.com/stromdao-stromdao-default/api/solarenergyprediction/
 
 ## LICENSE
 [MIT](./LICENSE)
